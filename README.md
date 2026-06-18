@@ -91,7 +91,7 @@ Hematovision/
 │   ├── Home.html
 │   ├── Project.html
 │   ├── result.html
-│   └── team.html
+│   └── about.html
 │
 └── README.md
 ```
@@ -165,14 +165,6 @@ The model can classify different types of blood cells such as:
 📷 Enable real-time image capture via webcam
 ☁️ Deploy the system on cloud platforms (AWS / Heroku)
 📊 Add visualization charts for analysis
-
----
-
-# 👨‍💻 Team
-
-This project was developed as part of an academic / research project.
-
-Team members are listed on the **Team Page** of the web application.
 
 ---
 
