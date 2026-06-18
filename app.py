@@ -39,9 +39,9 @@ def project():
     return render_template("Project.html")
 
 
-@app.route("/team.html")
-def team():
-    return render_template("team.html")
+@app.route("/about.html")
+def about():
+    return render_template("about.html")
 
 
 @app.route("/result.html", methods=["GET", "POST"])
